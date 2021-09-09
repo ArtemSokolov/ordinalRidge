@@ -8,7 +8,7 @@ The package can be installed directly from GitHub.
 
 ```r
 if(!require(devtools)) install.packages("devtools")
-devtools::install_github("ArtemSokolov/ordinalRidge")
+devtools::install_github("labsyspharm/ordinalRidge")
 ```
 
 ## Example usage
